@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ABELOSO</h1>
+<h1 align="center">Hi 👋, I'm Abel</h1>
 <h3 align="center">Software Developer | AI Enthusiast | Embedded Systems Explorer</h3>
 
 <p align="center">
@@ -62,11 +62,11 @@ Passionate about building intelligent systems, exploring hardware-software integ
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABELOSO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ABEL0S0&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABELOSO&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABEL0S0&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -74,7 +74,7 @@ Passionate about building intelligent systems, exploring hardware-software integ
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ABELOSO&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ABEL0S0&theme=tokyonight" />
 </p>
 
 ---
@@ -82,7 +82,7 @@ Passionate about building intelligent systems, exploring hardware-software integ
 ## 📫 Connect With Me
 
 <p>
-<a href="https://github.com/ABELOSO">GitHub</a>
+<a href="https://github.com/ABEL0S0">GitHub</a>
 </p>
 
 ---
