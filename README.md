@@ -77,5 +77,5 @@ Passionate about building intelligent systems, exploring hardware-software integ
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js,spring,react,vue,raspberrypi,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js,spring,react,vue,raspberrypi,arduino,docker" />
 </p>
