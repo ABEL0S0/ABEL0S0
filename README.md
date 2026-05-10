@@ -28,12 +28,6 @@ Passionate about building intelligent systems, exploring hardware-software integ
 <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript" />
 </p>
 
-- **Java**
-- **C++**
-- **Python**
-- **JavaScript**
-- **TypeScript**
-
 ---
 
 ## ⚙️ Frameworks & Technologies
@@ -41,11 +35,6 @@ Passionate about building intelligent systems, exploring hardware-software integ
 <p>
 <img src="https://skillicons.dev/icons?i=spring,react,vue,nodejs" />
 </p>
-
-- **Spring Boot**
-- **React**
-- **Vue.js**
-- **Node.js**
 
 ---
 
@@ -90,4 +79,3 @@ Passionate about building intelligent systems, exploring hardware-software integ
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js,spring,react,vue,raspberrypi,arduino" />
 </p>
----
